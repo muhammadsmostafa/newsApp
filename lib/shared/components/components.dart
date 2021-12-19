@@ -1,8 +1,8 @@
 import 'package:buildcondition/buildcondition.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:news_app/layout/news_app/cubit/cubit.dart';
-import 'package:news_app/modules/news_app/web_view/web_view_screen.dart';
+import 'package:news_app/layout/cubit/cubit.dart';
+import 'package:news_app/modules/web_view_screen.dart';
 
 Widget defaultFormField({
   required TextEditingController controller,
